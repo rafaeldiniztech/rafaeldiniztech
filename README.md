@@ -13,25 +13,22 @@ I have hands-on experience with labs such as **TryHackMe**, where I develop tech
 
 🧠 I actively participate in **CTFs (Capture The Flag)** and other practical activities, improving my logical reasoning, analytical skills, and problem-solving abilities — essential skills in information security.
 
-🎯 Currently, I am intensively preparing for the **CompTIA Security+** certification exam, scheduled for **July 28th**.  
-
-🗣️ English at an intermediate level (B1), focusing on cybersecurity technical vocabulary.  
-I study the language daily and can already consume technical content, documentation, and videos in English.
-
 ---
 
 ## 🧠 Technical Skills
 
 Knowledge developed through practical labs, CTFs, and platforms like TryHackMe.
 
-🖥️ Linux environments and command line  
-🔍 Network traffic analysis  
-🛡️ Network security and firewalls  
-🧠 Log analysis and SIEM fundamentals  
-👨‍💻 Operation in simulated SOC environments  
-🕵️‍♂️ Basic pentesting and CTF solving  
-🔒 Fundamentals of cryptography and data protection  
-📘 Security protocols  
+- Networking fundamentals and basic firewall configuration  
+- Log analysis and initial SIEM experience  
+- Network traffic inspection (Wireshark, Zeek)  
+- Linux environments and command line usage (Kali, Ubuntu)  
+- Threat detection using tools like capa, YARA.  
+- Basic penetration testing and CTF challenge solving (Nmap, Burp Suite)  
+- Virtual lab setup using VirtualBox  
+- Cryptography concepts (hashing, steganography, data protection)  
+- Familiarity with SOC workflows and incident response basics  
+ 
 
 ---
 
@@ -39,18 +36,17 @@ Knowledge developed through practical labs, CTFs, and platforms like TryHackMe.
 
 | 🔎 Project                     | 💬 Description                                              | 🛠️ Technologies                 |
 |-------------------------------|-------------------------------------------------------------|-------------------------------|
-| `CTF Writeups`                 | Solving TryHackMe and HTB challenges with detailed write-ups | Nmap, Burp Suite, Enumeration tools |
-| `Malware Analysis - capa`      | Static malware analysis using capa                           | capa, strings, PEview          |
+
 
 ---
 
 ## 🎓 Certifications & Courses
 
-- 🎯 **Dion Training - CompTIA Security+ (completed)**  
+- 🎯 **Dion Training - CompTIA Security+ (completed)**
+- 🔒 **CompTIA Security+ (in progress)**
 - 🧠 **TryHackMe Learning Paths:**  
   - `Pre Security` (completed)  
   - `Cybersecurity 101` (completed)    
-  - `Malware Analysis Basics` (completed)  
   - `SOC Level 1` (in progress)  
 
 ---
