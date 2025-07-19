@@ -14,6 +14,7 @@ I have hands-on experience with labs such as **TryHackMe**, where I develop tech
 🧠 I actively participate in **CTFs (Capture The Flag)** and other practical activities, improving my logical reasoning, analytical skills, and problem-solving abilities — essential skills in information security.
 
 🎯 Currently, I am intensively preparing for the **CompTIA Security+** certification exam, scheduled for **July 28th**.  
+
 🗣️ English at an intermediate level (B1), focusing on cybersecurity technical vocabulary.  
 I study the language daily and can already consume technical content, documentation, and videos in English.
 
