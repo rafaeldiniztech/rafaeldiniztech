@@ -1,73 +1,69 @@
-<h1 align="center">🔐 Rafael Diniz | Cybersecurity Student</h1>
+# Rafael Diniz | Cybersecurity Student
 
-<p align="center">
-  🧠 Learning every day | 🚀 Seeking my first opportunity | 🇧🇷 Brazilian
-</p>
+_Learning continuously | Seeking my first professional opportunity | Based in Brazil_
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-📘 I am a **Cyber Defense** student at FIAP, focused on both **offensive and defensive cybersecurity**.  
-I have hands-on experience with labs such as **TryHackMe**, where I develop technical skills through daily challenges.
+I am currently studying **Cyber Defense** at FIAP, focusing on both offensive and defensive aspects of cybersecurity. I have practical experience through labs on platforms like TryHackMe, where I enhance my technical skills by solving daily challenges.
 
-🧠 I actively participate in **CTFs (Capture The Flag)** and other practical activities, improving my logical reasoning, analytical skills, and problem-solving abilities — essential skills in information security.
+I actively participate in **Capture The Flag (CTF)** competitions and other hands-on activities that develop my logical thinking, analytical skills, and problem-solving abilities, which are essential in the field of information security.
 
-🎯 Currently, I am intensively preparing for the **CompTIA Security+** certification exam, scheduled for **July 28th**.  
+I am preparing intensively for the **CompTIA Security+** certification exam, scheduled for **July 28th**.
 
-🗣️ English at an intermediate level (B1), focusing on cybersecurity technical vocabulary.  
-I study the language daily and can already consume technical content, documentation, and videos in English.
+My English proficiency is at an intermediate level (B1), with a focus on technical vocabulary related to cybersecurity. I study the language daily and am capable of understanding technical content, documentation, and videos in English.
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
-Knowledge developed through practical labs, CTFs, and platforms like TryHackMe.
+My knowledge has been developed through practical labs, CTFs, and platforms such as TryHackMe.
 
-🖥️ Linux environments and command line  
-🔍 Network traffic analysis  
-🛡️ Network security and firewalls  
-🧠 Log analysis and SIEM fundamentals  
-👨‍💻 Operation in simulated SOC environments  
-🕵️‍♂️ Basic pentesting and CTF solving  
-🔒 Fundamentals of cryptography and data protection  
-📘 Security protocols  
-
----
-
-## 🚀 Projects
-
-| 🔎 Project                     | 💬 Description                                              | 🛠️ Technologies                 |
-|-------------------------------|-------------------------------------------------------------|-------------------------------|
-| `CTF Writeups`                 | Solving TryHackMe and HTB challenges with detailed write-ups | Nmap, Burp Suite, Enumeration tools |
-| `Malware Analysis - capa`      | Static malware analysis using capa                           | capa, strings, PEview          |
+- Linux environments and command line  
+- Network traffic analysis  
+- Network security and firewalls  
+- Log analysis and fundamentals of SIEM  
+- Operation in simulated Security Operations Center (SOC) environments  
+- Basic penetration testing and CTF challenge solving  
+- Fundamentals of cryptography and data protection  
+- Security protocols  
 
 ---
 
-## 🎓 Certifications & Courses
+## Projects
 
-- 🎯 **Dion Training - CompTIA Security+ (in progress)**  
-- 🧠 **TryHackMe Learning Paths:**  
-  - `Pre Security` ✅  
-  - `Cybersecurity 101` ✅  
-  - `Malware Analysis Basics` ✅  
-  - `SOC Level 1` 🔄 (in progress)  
+| Project                  | Description                                                | Technologies                   |
+|--------------------------|------------------------------------------------------------|-------------------------------|
+| CTF Writeups             | Solving challenges from TryHackMe and Hack The Box with detailed write-ups | Nmap, Burp Suite, enumeration tools |
+| Malware Analysis - capa  | Static malware analysis using capa                          | capa, strings, PEview          |
 
 ---
 
-## 🌐 Languages
+## Certifications & Courses
 
-- 🇧🇷 Portuguese: Native  
-- 🇺🇸 English: Intermediate (B1) — continuously improving  
-
----
-
-## 📫 Contact
-
-- 📧 Email: [contact@rafaeldiniz.tech](mailto:contact@rafaeldiniz.tech)  
-- 💼 LinkedIn: [linkedin.com/in/rafaeldiniz](https://linkedin.com/in/rafaeldiniz)  
-- 🧠 TryHackMe: [tryhackme.com/p/rafaeldiniz](https://tryhackme.com/p/rafaeldiniz)
+- Dion Training - CompTIA Security+ (in progress)  
+- TryHackMe Learning Paths:  
+  - Pre Security (completed)  
+  - Cybersecurity 101 (completed)  
+  - Malware Analysis Basics (completed)  
+  - SOC Level 1 (in progress)  
 
 ---
 
-> _"Focus on progress, not perfection."_
+## Languages
+
+- Portuguese: Native  
+- English: Intermediate (B1), continuously improving  
+
+---
+
+## Contact
+
+- Email: [contact@rafaeldiniz.tech](mailto:contact@rafaeldiniz.tech)  
+- LinkedIn: [linkedin.com/in/rafaeldiniz](https://linkedin.com/in/rafaeldiniz)  
+- TryHackMe: [tryhackme.com/p/rafaeldiniz](https://tryhackme.com/p/rafaeldiniz)
+
+---
+
+> “Focus on progress, not perfection.”
