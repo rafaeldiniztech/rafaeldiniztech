@@ -42,8 +42,7 @@ Knowledge developed through practical labs, CTFs, and platforms like TryHackMe.
 
 ## 🎓 Certifications & Courses
 
-- 🎯 **Dion Training - CompTIA Security+ (completed)**
-- 🔒 **CompTIA Security+ (in progress)**
+- 🔒 **CompTIA Security+**
 - 🧠 **TryHackMe Learning Paths:**  
   - `Pre Security` (completed)  
   - `Cybersecurity 101` (completed)    
