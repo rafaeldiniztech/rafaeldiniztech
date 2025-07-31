@@ -43,10 +43,11 @@ Knowledge developed through practical labs, CTFs, and platforms like TryHackMe.
 ## 🎓 Certifications & Courses
 
 - 🔒 **CompTIA Security+**
+- 👨‍💻 **FIAP Certifications**
 - 🧠 **TryHackMe Learning Paths:**  
   - `Pre Security` (completed)  
   - `Cybersecurity 101` (completed)    
-  - `SOC Level 1` (in progress)  
+  - `SOC Level 1` (in progress)
 
 ---
 
